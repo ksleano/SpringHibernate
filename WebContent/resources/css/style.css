@@ -1,0 +1,22 @@
+@charset "ISO-8859-1";
+
+table{
+	width:72%;
+}
+
+th{
+	background:none repeat scroll 0 0 #0979C3;
+	color: white;
+}
+
+tr {
+	border-top:1px solid gray;
+	text-align:center;	
+}
+ 
+tr:nth-child(even) {background: #FFFFFF}
+tr:nth-child(odd) {background: #BBBBBB}	
+
+h2 {
+	color: maroon;
+}
